@@ -3,8 +3,9 @@
 > Se realizó los Test de Automatización de la aplicación (Mi Inventario) en módulos Login, Logout, Productos, Ventas y Usuarios.
 >
 > [(Mi Inventario) en PlayStore](https://play.google.com/store/apps/details?id=com.vendetta.miinventario&hl=es)
-![](src/resources/Mi Inventario.jpeg)
+>
 
+![](src/resources/Inventario.jpeg)
 # 👨‍💻 Stack Tecnológico
 
 Para el presente proyecto se utilizó:
